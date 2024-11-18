@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
-    <property name="sun.java.command" value="C:\Users\vyahu\AppData\Local\Temp\surefire2144717315039770017\surefirebooter-20241114153523473_3.jar C:\Users\vyahu\AppData\Local\Temp\surefire2144717315039770017 2024-11-14T15-35-23_301-jvmRun1 surefire-20241114153523473_1tmp surefire_0-20241114153523473_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\vyahu\AppData\Local\Temp\surefire4893646325585188649\surefirebooter-20241118104812824_3.jar C:\Users\vyahu\AppData\Local\Temp\surefire4893646325585188649 2024-11-18T10-48-12_637-jvmRun1 surefire-20241118104812824_1tmp surefire_0-20241118104812824_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\vyahu\eclipse-workspace\59Z\target\test-classes;C:\Users\vyahu\eclipse-workspace\59Z\target\classes;C:\Users\vyahu\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\vyahu\AppData\Local\Temp\surefire2144717315039770017\surefirebooter-20241114153523473_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\vyahu\AppData\Local\Temp\surefire4893646325585188649\surefirebooter-20241118104812824_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23.0.1+11-39"/>
@@ -59,5 +59,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="testApp" classname="mavenjava.Z.AppTest" time="0.004"/>
+  <testcase name="testApp" classname="mavenjava.Z.AppTest" time="0.005"/>
 </testsuite>
